@@ -3,6 +3,7 @@
 #include <ctype.h>
 #include <string.h>
 
+//Function to vallidate a password of datatype string
 bool valid(string password);
 
 int main(void)
