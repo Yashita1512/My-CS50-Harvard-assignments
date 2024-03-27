@@ -8,7 +8,8 @@ bool valid(string password);
 
 int main(void)
 {
-    string password = get_string("Enter your password: ");
+    //getting input from user
+    string password = get_string("Enter the password here: ");
     if (valid(password))
     {
         printf("Your password is valid!\n");

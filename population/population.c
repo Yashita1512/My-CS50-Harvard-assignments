@@ -7,7 +7,7 @@ int main(void)
     int s;
     do
     {
-        s = get_int("Start size: ");
+        s = get_int("Start size of the group: ");
     }
     while (s < 9);
 
