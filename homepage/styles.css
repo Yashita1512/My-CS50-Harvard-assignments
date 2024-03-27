@@ -1,0 +1,27 @@
+body{
+    background-color:  #8FACE3;
+}
+
+.nav_bar{background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 80px;
+    margin-top: 20px;
+    box-shadow: 2px 1px 2px 1px grey;"
+}
+
+#logo{
+    padding: 20px;
+}
+
+.menu_box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu_items{
+    padding: 20px;
+    color: grey;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
